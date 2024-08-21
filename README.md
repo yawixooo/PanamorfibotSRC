@@ -1,4 +1,4 @@
 # Panamorfi bot src
 
- code by yawix
+ code by yawix, flex
 нужен майпинг 
